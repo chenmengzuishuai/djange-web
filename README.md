@@ -1,2 +1,2 @@
 # django-web
-create a web server application by djange framework
+create a web server application by django framework
